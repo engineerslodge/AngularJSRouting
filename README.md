@@ -1,4 +1,4 @@
-# AngularJSRouting
+# AngularJSRouting For Plesk Server or IIS
 This is a Webconfig file to configure IIS Server or Plesk Server to Route all Static Page On Angular Js
 This configuration tells IIS to rewrite all incoming requests to the index.html file, except for requests that match an existing file or directory.
 
